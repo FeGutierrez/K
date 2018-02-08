@@ -103,6 +103,7 @@ public class RobotBase
             estudiante.move();
             turnRight();
             estudiante.move();
+            estudiante.move();
             
             
             
